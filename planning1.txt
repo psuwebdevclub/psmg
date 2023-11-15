@@ -1,0 +1,24 @@
+PSMG - Mock record label
+
+1. guest speakers + inside scoop
+2. Hands on projects -> Help members promote their music
+
+showcases the club activities
+
+exec board + about (use a video introduction)
+meeting info and updates
+Future plans
+Guest speakers -> highlight this
+Sponsorship form
+
+For now lets do different tabs
+
+Kinda professional/business oriented
+
+Fixed position navbar
+
+Have a hook to the next two events from google calender
+
+1. Home page, next event, mission and vision with socials, contact
+
+Tackle the home page get code set up etc.
